@@ -54,6 +54,7 @@ https://quick-show-frontend-r37adlce2-tourism-websites-projects.vercel.app
 ### 1. Clone the repository
 
 git clone https://github.com/aggisanjay/QuickShow
+
 cd QuickShow
 
 ## 2. Install dependencies
@@ -61,11 +62,37 @@ cd QuickShow
 ## Backend:
 
    cd server
+
    npm install
+   
    npm run dev
    
 ## Frontend:
 
    cd client
+
    npm install
+   
    npm run dev
+   
+## screenshots
+
+# Login
+
+<img width="442" height="493" alt="image" src="https://github.com/user-attachments/assets/bce044ca-49d3-4ece-a71b-59590bd88696" />
+
+#  Home
+
+<img width="1263" height="1299" alt="image" src="https://github.com/user-attachments/assets/9e4cb66d-f5d4-4518-ace3-a0a430d68ea9" />
+
+# Movie Details
+
+<img width="1145" height="1094" alt="image" src="https://github.com/user-attachments/assets/b6ee0635-82a4-4a79-b1c0-fbf5748087b5" />
+
+# Selecting seats
+
+<img width="1182" height="713" alt="image" src="https://github.com/user-attachments/assets/70cae997-c36d-4615-9571-a0f08dd19aa5" />
+
+# My Bookings
+
+<img width="880" height="1482" alt="image" src="https://github.com/user-attachments/assets/73994ada-a007-44cd-9218-528d4a07a75a" />
